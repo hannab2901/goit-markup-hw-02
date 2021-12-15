@@ -149,6 +149,12 @@ body {
   color: #ffffff;
   background: #2196f3;
 }
+
+.btn-portfolio.current {
+  color: #ffffff;
+  background: #2196f3;
+}
+
 .name-project {
   font-family: Roboto;
   font-style: normal;
