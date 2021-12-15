@@ -1,6 +1,12 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+}
+
 body {
   font-family: Roboto;
-  color: #757575;
+  color: var(--primary-text-color);
   background: #ffffff;
   font-size: 14px;
   line-height: 1, 71;
@@ -21,7 +27,7 @@ body {
   font-size: 26px;
   line-height: 1, 19;
   letter-spacing: 0.03em;
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .logo-black {
   color: #000000;
@@ -37,14 +43,14 @@ body {
   font-size: 14px;
   line-height: 1, 14;
   letter-spacing: 0.02em;
-  color: #212121;
+  color: var(--title-text-color);
 }
 .nav:hover,
 .nav:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .nav.current {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .info {
   text-decoration: none;
@@ -54,11 +60,11 @@ body {
   font-size: 14px;
   line-height: 1, 14;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--primary-text-color);
 }
 .info:hover,
 .info:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 /* Студия */
 .hero {
@@ -83,7 +89,7 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
-  background: #2196f3;
+  background: var(--accent-color);
 }
 .heading {
   font-family: Roboto;
@@ -92,7 +98,7 @@ body {
   line-height: 1, 17;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--title-text-color);
 }
 .andr-head {
   font-family: Roboto;
@@ -101,7 +107,7 @@ body {
   line-height: 1, 14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
+  color: var(--title-text-color);
 }
 .team {
   font-family: Roboto;
@@ -110,7 +116,7 @@ body {
   line-height: 1, 19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--title-text-color);
 }
 .team-prof {
   font-family: Roboto;
@@ -118,7 +124,7 @@ body {
   line-height: 1, 19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--primary-text-color);
 }
 .section-team {
   background: #f5f4fa;
@@ -133,18 +139,18 @@ body {
   line-height: 1, 6;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--title-text-color);
   background: #f5f4fa;
 }
 .btn-portfolio:hover,
 .btn-portfolio:focus {
   color: #ffffff;
-  background: #2196f3;
+  background: var(--accent-color);
 }
 
 .btn-portfolio.current {
   color: #ffffff;
-  background: #2196f3;
+  background: var(--accent-color);
 }
 
 .name-project {
@@ -153,7 +159,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--title-text-color);
 }
 
 .name {
@@ -161,7 +167,7 @@ body {
   font-size: 16px;
   line-height: 1, 9;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--primary-text-color);
 }
 /* конец портфолио */
 /* Footer */
@@ -179,7 +185,7 @@ body {
 }
 .adress:hover,
 .adress:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .info-footer {
   text-decoration: none;
@@ -191,5 +197,5 @@ body {
 }
 .info-footer:hover,
 .info-footer:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
