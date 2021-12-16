@@ -9,7 +9,7 @@ body {
   color: var(--primary-text-color);
   background: #ffffff;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
 }
 
 .link {
@@ -25,7 +25,7 @@ body {
   font-family: Raleway;
   font-weight: 700px;
   font-size: 26px;
-  line-height: 1, 19;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--accent-color);
 }
@@ -41,7 +41,7 @@ body {
   font-family: Roboto;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--title-text-color);
 }
@@ -58,7 +58,7 @@ body {
   font-family: Roboto;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
@@ -72,7 +72,7 @@ body {
   font-family: Roboto;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 36;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -83,7 +83,7 @@ body {
   font-family: Roboto;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1, 88;
+  line-height: 1.88;
   display: flex;
   align-items: center;
   text-align: center;
@@ -95,7 +95,7 @@ body {
   font-family: Roboto;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 17;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
@@ -104,7 +104,7 @@ body {
   font-family: Roboto;
   font-weight: 700;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--title-text-color);
@@ -113,7 +113,7 @@ body {
   font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
@@ -121,7 +121,7 @@ body {
 .team-prof {
   font-family: Roboto;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
@@ -136,7 +136,7 @@ body {
   font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 6;
+  line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
@@ -165,7 +165,7 @@ body {
 .name {
   font-family: Roboto;
   font-size: 16px;
-  line-height: 1, 9;
+  line-height: 1.9;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
 }
@@ -179,7 +179,7 @@ body {
   font-style: normal;
   font-family: Roboto;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -191,7 +191,7 @@ body {
   text-decoration: none;
   font-family: Roboto;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
