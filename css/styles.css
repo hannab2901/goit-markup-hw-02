@@ -38,7 +38,6 @@ body {
 
 .nav {
   text-decoration: none;
-  font-family: Roboto;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -55,7 +54,6 @@ body {
 .info {
   text-decoration: none;
   list-style: none;
-  font-family: Roboto;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -69,7 +67,8 @@ body {
 /* Студия */
 .hero {
   background-color: #2f303a;
-  font-family: Roboto;
+}
+.main-heading {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -78,9 +77,9 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 }
+
 .button {
   cursor: pointer;
-  font-family: Roboto;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -92,7 +91,6 @@ body {
   background: var(--accent-color);
 }
 .heading {
-  font-family: Roboto;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -101,7 +99,6 @@ body {
   color: var(--title-text-color);
 }
 .andr-head {
-  font-family: Roboto;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -110,7 +107,6 @@ body {
   color: var(--title-text-color);
 }
 .team {
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -119,7 +115,6 @@ body {
   color: var(--title-text-color);
 }
 .team-prof {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
@@ -133,7 +128,6 @@ body {
 /* портфолио */
 .btn-portfolio {
   cursor: pointer;
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
@@ -154,7 +148,6 @@ body {
 }
 
 .name-project {
-  font-family: Roboto;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -163,7 +156,6 @@ body {
 }
 
 .name {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -177,7 +169,6 @@ body {
 .adress {
   text-decoration: none;
   font-style: normal;
-  font-family: Roboto;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -189,7 +180,6 @@ body {
 }
 .info-footer {
   text-decoration: none;
-  font-family: Roboto;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
